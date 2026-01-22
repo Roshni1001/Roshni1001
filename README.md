@@ -2,14 +2,13 @@
 
 # Hi there, I'm Roshni Chaudhuri 👋
 
-**Undergrad VLSI/Embedded Systems Engineer | Jadavpur University | Cadence Virtuoso | ESP32 IoT**
+**Undergrad VLSI/Embedded Systems Engineer | Indian Institute of Technology, Madras | Cadence Virtuoso | ESP32 IoT**
 
 ![VLSI & Embedded Systems](https://img.shields.io/badge/VLSI-Embedded%20Systems-blueviolet?style=for-the-badge&logo=cadence&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/Python-Verilog-Cadence-007ACC?style=for-the-badge&logo=python&logoColor=yellow)
 
 Passionate about **ASIC/IC Design**, **Analog Circuits**, and **IoT Hardware**. Currently building transistor-level projects in Cadence Virtuoso (NAND/NOR gates, resistive load amps, differential amps) and ESP32-based systems. Seeking VLSI internships in chip design!
 
-📫 **roshni1001@example.com** | 📱 **LinkedIn** (add your link)
 
 </div>
 
