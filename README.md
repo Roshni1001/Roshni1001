@@ -18,7 +18,7 @@ Passionate about **ASIC/IC Design**, **Analog Circuits**, and **IoT Hardware**. 
 |---------|-------------|------------|
 | **[ASIC Analog Projects](https://github.com/Roshni1001/asic-analog-projects)** [new!] | Transistor-level IC design: NAND/NOR gates, resistive-load amplifiers, differential amps in Cadence Virtuoso | ![Cadence](https://img.shields.io/badge/Cadence%20Virtuoso-FF6C37?style=flat&logo=cadence&logoColor=white) ![Spectre](https://img.shields.io/badge/Spectre-Orange?style=flat) |
 | **ESP32 Aquaculture IoT** | Cloud-connected sensor node for aquaculture monitoring (Blynk + sensors) | ![ESP32](https://img.shields.io/badge/ESP32-FFBD33?style=flat&logo=esp32&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Touchless HCI Jetson Nano** | Hand gesture interface using computer vision | ![Jetson](https://img.shields.io/badge/Jetson%20Nano-Green?style=flat&logo=nvidia&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+
 
 ## 🏆 GitHub Stats
 
